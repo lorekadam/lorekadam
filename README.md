@@ -19,3 +19,5 @@
 
 ![Profile views](https://gpvc.arturio.dev/lorekadam)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ALorek?style=social)
+
+[![image](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lorekadam&width=400)](https://profile.codersrank.io/user/lorekadam)
