@@ -7,7 +7,7 @@
 - 💻 computer science and econometrics
 - 🙋‍♂️ worked in small and large developer teams
 - 📱 web, mobile, desktop applications
-- 🌐 2+ years of remote work experience
+- 🌐 3+ years of remote work experience
 - 📚 everyday learner
 - 🌪 addicted to dev / tech Twitter
 
