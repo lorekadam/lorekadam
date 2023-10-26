@@ -2,7 +2,7 @@
 ###  I'm Adam. Senior frontend / react native developer with experience. 
 
 - 📅 7+ years in the industry
-- 🎉 proudly created https://showem.fun all by myself. Backend, frontend, android / iOS app
+- 🎉 proudly created https://showem.net all by myself. Backend, frontend, android / iOS app
 - 🎓 graduated from college with engineer degree
 - 💻 computer science and econometrics
 - 🙋‍♂️ worked in small and large developer teams
