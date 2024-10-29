@@ -1,8 +1,8 @@
 ## Hi there 👋
 ###  I'm Adam. Senior frontend / react native developer with experience. 
 
-- 📅 7+ years in the industry
-- 🎉 proudly created https://showem.net all by myself. Backend, frontend, android / iOS app
+- 📅 9+ years in the industry
+- 🎉 working on https://trodevi.com - Full Next.js project
 - 🎓 graduated from college with engineer degree
 - 💻 computer science and econometrics
 - 🙋‍♂️ worked in small and large developer teams
