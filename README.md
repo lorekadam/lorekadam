@@ -1,8 +1,9 @@
 ## Hi there 👋
 ###  I'm Adam. Senior frontend / react native developer with experience. 
 
-- 📅 9+ years in the industry
-- 🎉 working on https://trodevi.com - Full Next.js project
+- 📅 11+ years in the industry
+- 🎉 https://showem.net
+- 🎉 https://kratka.app
 - 🎓 graduated from college with engineer degree
 - 💻 computer science and econometrics
 - 🙋‍♂️ worked in small and large developer teams
